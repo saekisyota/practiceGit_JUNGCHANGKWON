@@ -1,2 +1,0 @@
-# practiceGit_JUNGCHANGKWON
-practiceGit_JUNGCHNAGKWON
